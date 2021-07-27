@@ -1,12 +1,12 @@
 <h3>👋 Hello to everyone! </h3>
 <br>
-🙇I'm Lautaro
+🙇 I'm Lautaro
 <br>
-⚡I’m currently working on JavaScript & React😉
+⚡ I’m currently working on JavaScript & React 😉
 <br>
-📫How to reach me: lautarosoliani@hotmail.com
+📫 How to reach me: lautarosoliani@hotmail.com
 <br>
-🌱Fun fact: I am an Argentinian vegetarian
+🌱 Fun fact: I am an Argentinian vegetarian
 <br>
 <br>
-✨Languages and Tools
+✨ Languages and Tools
