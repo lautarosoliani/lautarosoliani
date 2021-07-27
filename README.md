@@ -12,9 +12,9 @@
 <br>
 ⚡ I’m currently working on JavaScript & React 😉
 <br>
-📫 How to reach me: lautarosoliani@hotmail.com
-<br>
 🌱 Fun fact: I am an Argentinian vegetarian
+<br>
+📫 How to reach me: lautarosoliani@hotmail.com
 <br>
 <br>
 <p align="left">Languages and Tools</p>
