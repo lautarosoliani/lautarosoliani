@@ -6,7 +6,7 @@
   
   
   
-<h3>👋 Hello to everyone! </h3>
+<h3>👋 Hello to everyone</h3>
 <br>
 🙇 I'm Lautaro
 <br>
