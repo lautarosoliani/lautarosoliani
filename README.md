@@ -6,7 +6,7 @@
 <br>
 🙇 I'm Lautaro
 <br>
-⚡ I’m currently working on JavaScript & React 😉
+⚡ Currently working on JavaScript & React 😉
 <br>
 🌱 Fun fact: I am an Argentinian vegetarian
 <br>
