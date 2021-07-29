@@ -33,11 +33,4 @@
 <h4>Soon MERN project 👇</h4>
 <br>
 
-![image](https://user-images.githubusercontent.com/72751465/127413834-2c5fc2fd-bc68-4960-b5f9-5662b55cd60d.png)
-
-
-
-  
-
-  
-
+![image](https://user-images.githubusercontent.com/72751465/127414531-45f06d61-2fe6-4efb-bd63-564fe90bf68d.png)
