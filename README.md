@@ -26,7 +26,7 @@
 <hr></hr>
 <br>
 <h1>🏁 Podcast Channel</h1>
-Podcast Channel responsive Desktop and Mobile, with IFrames, HTML &amp; CSS only, no Bootstrap or Tailwind
+<p>Podcast Channel responsive Desktop and Mobile, with IFrames, HTML &amp; CSS only, no Bootstrap or Tailwind</p>
 <br></br>
 <h1>🎬 PREVIEW</h1>
 
@@ -40,7 +40,7 @@ https://landing-page-responsive-html-css.netlify.app/
 <p>📌HTML</p>
 <p>📌CSS</p>
 <p>📌Mobile First</p>
-<p>📌Responsive Website with Media Queries</p>
+<p>📌Responsive Web Design - Media Queries</p>
 <p>📌IFrames</p>
 </h2>
 
