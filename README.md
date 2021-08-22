@@ -84,3 +84,6 @@ https://veterinary-appointments-lautaro-soliani.netlify.app/
 <p>📌Storage in localStorage</p>
 <p>📌Documentation with PropTypes</p>
 </h2>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="lautaro-soliani" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/lautaro-soliani?trk=profile-badge">Lautaro Soliani</a></div>
+              
