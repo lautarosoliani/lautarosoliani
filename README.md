@@ -83,5 +83,4 @@ https://veterinary-appointments-lautaro-soliani.netlify.app/
 <p>📌Reusable components</p>
 <p>📌Storage in localStorage</p>
 <p>📌Documentation with PropTypes</p>
-  
 </h2>
