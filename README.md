@@ -8,8 +8,6 @@
 <br>
 ⚡ Currently working on JavaScript & React 😉
 <br>
-🌱 Fun fact: I am an Argentinian vegetarian
-<br>
 📫 How to reach me: lautarosoliani@hotmail.com
 <br>
 <br>
