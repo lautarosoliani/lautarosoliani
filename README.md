@@ -65,7 +65,7 @@ There are 4 episodes of programming in IFrame format, fully functional
 <h1>📌PREVIEW</h1>
 <h4></h4>
 
-![hippo](https://media-exp1.licdn.com/dms/image/C4E22AQGTzD_53iAOyQ/feedshare-shrink_1280/0/1627363335077?e=1630540800&v=beta&t=rig2A5BOIzyS-lfEpCCGYncgHDBwYkHkFnGgz_XKrFQ)
+![hippo](https://media2.giphy.com/media/I79txbhW3azsXIBP3h/giphy.gif)
 <br>
 <br>
 <h1>💻 ONLINE WEBSITE </h1>
