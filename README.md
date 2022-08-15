@@ -24,6 +24,7 @@
 <br>
 <h1>MoviesDB Web Page</h1>
 <p>A web page, made in ReactJS, consuming an API from themoviedb.org</p>
+Repositorie: https://github.com/lautarosoliani/moviesReact
 <br>
 <h1>MAIN/LIST SECTION</h1>
 <br>
@@ -36,11 +37,15 @@
 <br>
 <br>
 <h1>PREVIEW</h1>
+The web has been deployed in Netlify
+
+https://lautaro-soliani.netlify.app/
 <br>
 
 ![hippo](https://media.giphy.com/media/hnqsrqxesN7SvMbjkd/giphy.gif)
 
 <br>
+
 <hr></hr>
 <h1>🏁 Podcast Channel</h1>
 <p>Podcast Channel responsive Desktop and Mobile, with IFrames, HTML &amp; CSS only, no Bootstrap or Tailwind</p>
