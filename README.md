@@ -6,7 +6,7 @@
 <br>
 🙇 I'm Lautaro
 <br>
-⚡ Currently working on JavaScript & React 😉
+⚡ Currently working on JavaScript & React
 <br>
 📫 How to reach me: lautarosoliani@hotmail.com
 <br>
@@ -16,19 +16,39 @@
 <a href="https://linkedin.com/in/lautaro-soliani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-soliani" height="30" width="40" /></a>
 </p>
 <br>
-  
 <br>
 <p align="left">Languages and Tools</p>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
 <br>
 <hr></hr>
 <br>
+<h1>MoviesDB web page</h1>
+<p>A web page, made in ReactJS, consuming an API from themoviedb.org</p>
+<br>
+<h1>MAIN/LIST SECTION</h1>
+<br>
+<a href="https://ibb.co/xG7B8gQ"><img src="https://i.ibb.co/vmjTvd8/movie-app-005.png" alt="movie-app-005" border="0"></a>
+<br>
+<br>
+<h1>FAVORITES SECTION</h1>
+<br>
+<a href="https://ibb.co/TTXsytF"><img src="https://i.ibb.co/N3hMRKH/movie-app-006.png" alt="movie-app-006" border="0"></a>
+<br>
+<br>
+<h1>PREVIEW</h1>
+<br>
+
+![hippo](https://media.giphy.com/media/hnqsrqxesN7SvMbjkd/giphy.gif)
+
+<br>
+<hr></hr>
 <h1>🏁 Podcast Channel</h1>
 <p>Podcast Channel responsive Desktop and Mobile, with IFrames, HTML &amp; CSS only, no Bootstrap or Tailwind</p>
 <br></br>
 <h1>🎬 PREVIEW</h1>
 
-![hippo](https://media3.giphy.com/media/xOv1gAtpwKbQdF1oce/giphy.gif)
+![hippo](https://media3.giphy.com/media/xOv1gAtpwKbQdF1oce/giphy.gif) 
+
 <br></br>
 <h1>💻 ONLINE WEBSITE </h1>
 https://landing-page-responsive-html-css.netlify.app/
