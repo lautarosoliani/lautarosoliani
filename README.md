@@ -22,7 +22,7 @@
 <br>
 <hr></hr>
 <br>
-<h1>MoviesDB web page</h1>
+<h1>MoviesDB Web Page</h1>
 <p>A web page, made in ReactJS, consuming an API from themoviedb.org</p>
 <br>
 <h1>MAIN/LIST SECTION</h1>
