@@ -2,11 +2,11 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
   <header/>
-<h3 class="center">👋 Hello to everyone</h3>
+<h3 class="center">👋 Hello everyone</h3>
 <br>
 🙇 I'm Lautaro
 <br>
-⚡ Currently working on JavaScript & React
+⚡ I'm a Software Developer at coderei GmbH
 <br>
 📫 How to reach me: lautarosoliani@hotmail.com
 <br>
