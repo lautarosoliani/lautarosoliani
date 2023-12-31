@@ -13,7 +13,7 @@
 <br>
 <p align="left">Connect with me</p>
 <p align="left">
-<a href="https://linkedin.com/in/lautaro-soliani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-soliani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lautaro-soliani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-soliani" height="30" width="40" /></a>
 </p>
 <br>
 <br>
