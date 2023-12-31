@@ -8,7 +8,7 @@
 <br>
 ⚡ I'm a Software Developer at coderei GmbH
 <br>
-📫 How to reach me: lautarosoliani@hotmail.com
+📫 How to reach me: lautarosoliani@gmail.com
 <br>
 <br>
 <p align="left">Connect with me</p>
