@@ -2,25 +2,67 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
   <header/>
-<h3 class="center">👋 Hello everyone</h3>
+<h3 class="center">👋 Hello World</h3>
 <br>
-🙇 I'm Lautaro
+ I'm Lautaro
 <br>
-⚡ I'm a Software Developer at coderei GmbH
+ I'm a Software Developer at coderei GmbH
 <br>
-📫 How to reach me: lautarosoliani@gmail.com
+ How to reach me: lautarosoliani@gmail.com
 <br>
 <br>
 <p align="left">Connect with me</p>
-<p align="left">
-<a href="https://linkedin.com/in/lautaro-soliani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-soliani" height="30" width="40" /></a>
+<!-- <p align="left"> -->
+<a href="https://linkedin.com/in/lautaro-soliani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-soliani" height="60" width="80" /></a>
 </p>
 <br>
 <br>
-<p align="left">Languages and Tools</p>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
+    💻 Development:
+~ JavaScript
+~ TypeScript
+~ React
+~ React Query
+~ API Rest
+~ Next
+~ HTML5
+~ CSS3
+~ Tailwind
+<br><br>
+🧪 Testing & Control:
+~ Git
+~ Github
+~ ESLint 
+~ CI/CD pipelines
+~ Storybook
+~ End 2 end tests
+~ Cypress
+~ Azure DevOps 
+~ Jira 
+<br><br>
+🔧 Work Methodologies & Tools:
+~ Scrum 
+~ Agile Methodologies 
+~ Sprints 
+~ Continuous deployment
+~ Team building
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="160"/></a>
+</p>
 <br>
 <hr></hr>
+Currently specializing in React, JavaScript, TypeScript, Next and Node; also Testing, HTML5, CSS3, Git, and SOLID principles. My professional experience is 18 months of working on software solutions at Coderei GmbH 
+<br><br>
+Projects and contributions on GitHub - 1,257 in 2023
+<br><br>
+Beyond coding, my experiences goes from logistics with Amazon and UPS to corporate events at Ostara. Also, as a functional analyst at Globant, I provided systems support and contributed to Backend programming tasks for BIC U.S.A & Canada
+<br><br>
+<hr></hr>
+<h1>~ ALL OF THE FOLLOWING PROJECTS ARE PREVIOUS TO HAVE ANY WORK EXPERIENCE, UPDATES COMING SOON ~</h1>
 <br>
 <h1>MoviesDB Web Page</h1>
 <p>A web page, made in ReactJS, consuming an API from themoviedb.org</p>
