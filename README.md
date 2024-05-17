@@ -55,15 +55,13 @@
 </p>
 <br>
 <hr></hr>
-Currently specializing in React, JavaScript, TypeScript, Next and Node; also Testing, HTML5, CSS3, Git, and SOLID principles. My professional experience is 18 months of working on software solutions at Coderei GmbH 
-<br><br>
-Projects and contributions on GitHub - 1,257 in 2023
+Currently specializing in React, JavaScript, TypeScript, Next and Node; also Testing, HTML5, CSS3, Git, and SOLID principles.
 <br><br>
 Beyond coding, my experiences goes from logistics with Amazon and UPS to corporate events at Ostara. Also, as a functional analyst at Globant, I provided systems support and contributed to Backend programming tasks for BIC U.S.A & Canada
 <br><br>
 <hr></hr>
-
-<h1>Front End Developer Challenge (NextJS | Reactjs) - Character Display App</h1>
+<h3>Some of my projects:</h3>
+<h1>A) Front End Developer Challenge (NextJS | Reactjs) - Character Display App</h1>
 
 ![7](https://github.com/lautarosoliani/moviesReact/assets/72751465/6af8fb01-9614-46d5-a626-acd6a07c8992)
 
@@ -96,7 +94,7 @@ This project is a web application that utilizes the Rick and Morty API to displa
 
 <hr></hr>
 <br>
-<h1>MoviesDB Web Page</h1>
+<h1>B) MoviesDB Web Page</h1>
 <p>A web page, made in ReactJS, consuming an API from themoviedb.org</p>
 Repositorie: https://github.com/lautarosoliani/moviesReact
 <br>
@@ -123,7 +121,7 @@ https://lautaro-soliani.netlify.app/
 <br>
 
 <hr></hr>
-<h1>🏁 Podcast Channel</h1>
+<h1>C) 🏁 Podcast Channel</h1>
 <p>Podcast Channel responsive Desktop and Mobile, with IFrames, HTML &amp; CSS only, no Bootstrap or Tailwind</p>
 <br></br>
 <h1>🎬 PREVIEW</h1>
@@ -160,7 +158,7 @@ There are 4 episodes of programming in IFrame format, fully functional
 <br>
 <hr></hr>
 <br>
-<h1>🏁 React App</h1>
+<h1>D) React App</h1>
 <p>Here is a simple but efficient example of an app that I made on JavaScript and React</p>
 <br>
 <h1>📌PREVIEW</h1>
