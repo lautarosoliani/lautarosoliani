@@ -62,7 +62,39 @@ Projects and contributions on GitHub - 1,257 in 2023
 Beyond coding, my experiences goes from logistics with Amazon and UPS to corporate events at Ostara. Also, as a functional analyst at Globant, I provided systems support and contributed to Backend programming tasks for BIC U.S.A & Canada
 <br><br>
 <hr></hr>
-<h1>~ ALL OF THE FOLLOWING PROJECTS ARE PREVIOUS TO HAVE ANY WORK EXPERIENCE, UPDATES COMING SOON ~</h1>
+
+<h1>Front End Developer Challenge (NextJS | Reactjs) - Character Display App</h1>
+
+![7](https://github.com/lautarosoliani/moviesReact/assets/72751465/6af8fb01-9614-46d5-a626-acd6a07c8992)
+
+## The web has been deployed in Netlify
+https://lautaro-conexa.netlify.app/
+
+## Description
+This project is a web application that utilizes the Rick and Morty API to display character information and episodes dynamically. Developed with Next.js and React.js, it features a responsive design and utilizes server-side rendering for improved performance and SEO benefits.
+
+## Technologies Used
+- **Next.js**: A React framework for server-rendered applications, which helps in achieving faster page loads and a seamless user experience.
+- **React.js**: Used for building the user interface with state management and component-based architecture.
+- **React Query**: Utilized for managing server state in the application, enabling efficient data fetching, caching, and synchronization. It simplifies building complex user interfaces that depend on real-time data, reducing the need for boilerplate code and improving performance.
+- **Tailwind CSS**: Applied for styling the application, providing a utility-first approach that accelerates the development process.
+- **Rick and Morty API**: Integrates this third-party API to fetch and display data about characters and episodes, showcasing asynchronous data fetching techniques.
+
+## Key Features
+- **Dynamic Data Fetching**: Characters and episodes are fetched in real-time from the Rick and Morty API. The use of React Query's `keepPreviousData` feature ensures that data transitions are seamless, maintaining previous page data visible while new data is being fetched, thus enhancing user experience during pagination.
+- **Skeleton Screens**: Implementation of skeleton screens provides a visual placeholder while data is loading, significantly enhancing the user experience by reducing the perceived wait times and keeping the interface responsive.
+
+## Project Screenshots
+*Home page showing character cards with skeleton screens.*
+![1](https://github.com/lautarosoliani/moviesReact/assets/72751465/cc79b4e4-e816-404f-8d93-9ae391d77c4b)
+
+*Character List Page displaying paginated character cards from the Rick and Morty API. Added 'Go to Page' functionality for enhanced user navigation.*
+![6](https://github.com/lautarosoliani/moviesReact/assets/72751465/40d458ba-0245-457d-9625-52e560c36f33)
+
+*Episode Details Sections showing exclusive episodes for Character #1, shared episodes between Character #1 and Character #2, and exclusive episodes for Character #2. Implemented React Select library for character selection via dropdown or search input.*
+![3](https://github.com/lautarosoliani/rick-and-morty-character-display-app/assets/72751465/c3f6a5ce-587a-4782-8629-98877b125198)
+
+<hr></hr>
 <br>
 <h1>MoviesDB Web Page</h1>
 <p>A web page, made in ReactJS, consuming an API from themoviedb.org</p>
@@ -70,7 +102,9 @@ Repositorie: https://github.com/lautarosoliani/moviesReact
 <br>
 <h1>MAIN/LIST SECTION</h1>
 <br>
-<a href="https://ibb.co/xG7B8gQ"><img src="https://i.ibb.co/vmjTvd8/movie-app-005.png" alt="movie-app-005" border="0"></a>
+    
+![movie-app-005](https://github.com/lautarosoliani/lautarosoliani/assets/72751465/7de68cec-6751-461b-a109-f34ffba80c31)
+
 <br>
 <br>
 <h1>FAVORITES SECTION</h1>
@@ -121,7 +155,7 @@ For instance, the navigation menu changes between its versions for desktop and m
 There are 4 episodes of programming in IFrame format, fully functional
 <br></br>
 
-![hippo](https://i.ibb.co/s3f5C1z/Screenshot-2021-08-20-060524.png)
+![1](https://github.com/lautarosoliani/lautarosoliani/assets/72751465/3ad88daf-8ebe-45b8-af6c-75c0e7c6797c)
 
 <br>
 <hr></hr>
