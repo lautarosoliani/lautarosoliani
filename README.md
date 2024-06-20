@@ -6,7 +6,7 @@
 <br>
  I'm Lautaro
 <br>
- I'm a Software Developer at coderei GmbH
+ I'm a Software Developer at CodingIT
 <br>
  How to reach me: lautarosoliani@gmail.com
 <br>
