@@ -2,7 +2,6 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
   <header/>
-<h3 class="center">👋 Hello World</h3>
 <br>
  I'm Lautaro
 <br>
