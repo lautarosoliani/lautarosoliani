@@ -1,65 +1,90 @@
-  <header>
+<header>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-  <header/>
-<br>
- I'm Lautaro
-<br>
- I'm a Software Developer at CodingIT
-<br>
- How to reach me: lautarosoliani@gmail.com
-<br>
-<br>
-<p align="left">Connect with me</p>
-<!-- <p align="left"> -->
-<a href="https://linkedin.com/in/lautaro-soliani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-soliani" height="60" width="80" /></a>
+</header>
+
+Hi, I'm Lautaro 👋
+
+Frontend Developer with 3+ years of professional experience building web applications using React, Next.js and TypeScript.
+
+Focused on frontend architecture, component-driven development, API integrations, testing and performance optimization.
+
+### Connect with me
+
+<a href="https://linkedin.com/in/lautaro-soliani" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-soliani" height="40" width="50" />
+</a>
+
+<br><br><br>
+
+### 💻 Frontend
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Shadcn/ui
+
+### 📦 State & Data
+
+- TanStack Query
+- React Hook Form
+- REST APIs
+- Supabase
+- Firebase
+
+### 🧪 Testing & Quality
+
+- React Testing Library
+- Jest
+- Cypress
+- Playwright
+- Storybook
+- Accessibility
+- Performance Optimization
+
+### ☁️ DevOps & Cloud
+
+- AWS
+- Git
+- GitHub
+- GitLab
+- CI/CD Pipelines
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
+  </a>
 </p>
-<br>
-<br>
-    💻 Development:
-~ JavaScript
-~ TypeScript
-~ React
-~ React Query
-~ API Rest
-~ Next
-~ HTML5
-~ CSS3
-~ Tailwind
-<br><br>
-🧪 Testing & Control:
-~ Git
-~ Github
-~ ESLint 
-~ CI/CD pipelines
-~ Storybook
-~ End 2 end tests
-~ Cypress
-~ Azure DevOps 
-~ Jira 
-<br><br>
-🔧 Work Methodologies & Tools:
-~ Scrum 
-~ Agile Methodologies 
-~ Sprints 
-~ Continuous deployment
-~ Team building
-<p>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="160"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="160"/></a>
-</p>
-<br>
-<hr></hr>
-Currently specializing in React, JavaScript, TypeScript, Next and Node; also Testing, HTML5, CSS3, Git, and SOLID principles.
-<br><br>
-Beyond coding, my experiences goes from logistics with Amazon and UPS to corporate events at Ostara. Also, as a functional analyst at Globant, I provided systems support and contributed to Backend programming tasks for BIC U.S.A & Canada
-<br><br>
-<hr></hr>
-<h3>Some of my projects:</h3>
+
+---
+
+Currently building scalable frontend applications with React, Next.js and TypeScript, with a strong focus on reusable component architectures, software quality and modern frontend development practices.
+
+Experience working with modern technologies including TanStack Query, React Hook Form, Storybook, AWS, Firebase, Supabase and AWS Amplify.
+
+Passionate about building maintainable, accessible and high-quality user experiences.
+
+---
+
+## Some of my projects
 <h1>A) Front End Developer Challenge (NextJS | Reactjs) - Character Display App</h1>
 
 ![7](https://github.com/lautarosoliani/moviesReact/assets/72751465/6af8fb01-9614-46d5-a626-acd6a07c8992)
