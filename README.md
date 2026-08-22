@@ -4,9 +4,11 @@
 
 Hi, I'm Lautaro 👋
 
-Frontend Developer with 3+ years of professional experience building web applications using React, Next.js and TypeScript.
+Senior Full Stack JavaScript Developer with 4+ years of experience designing, architecting and delivering scalable production web applications using React, Next.js, TypeScript and Node.js.
 
-Focused on frontend architecture, component-driven development, API integrations, testing and performance optimization.
+Experienced building end-to-end software solutions across frontend, backend and cloud environments — REST APIs, authentication, databases, AWS and BaaS platforms like Supabase and Amplify.
+
+Daily user of AI-assisted software engineering workflows (GitHub Copilot, Cursor, Claude Code, Codex) to accelerate delivery while maintaining high standards of quality and maintainability.
 
 ### Connect with me
 
@@ -21,19 +23,36 @@ Focused on frontend architecture, component-driven development, API integrations
 - React
 - Next.js
 - TypeScript
-- JavaScript
+- JavaScript (ES6+)
+- React Native / Expo
+- Angular
 - HTML5
 - CSS3
 - Tailwind CSS
+- Material UI
 - Shadcn/ui
+- Responsive & Pixel-Perfect UI
+
+### 🛠️ Backend
+
+- Node.js
+- NestJS
+- Express.js
+- PostgreSQL
+- Prisma
+- SQL
+- JWT / OAuth
+- GraphQL
+- Microservices
+- REST APIs
 
 ### 📦 State & Data
 
 - TanStack Query
 - React Hook Form
-- REST APIs
 - Supabase
 - Firebase
+- Stripe
 
 ### 🧪 Testing & Quality
 
@@ -42,16 +61,25 @@ Focused on frontend architecture, component-driven development, API integrations
 - Cypress
 - Playwright
 - Storybook
-- Accessibility
+- Accessibility (WCAG)
 - Performance Optimization
+- SOLID Principles / Clean Architecture
 
-### ☁️ DevOps & Cloud
+### ☁️ Cloud, DevOps & AI
 
 - AWS
-- Git
-- GitHub
-- GitLab
-- CI/CD Pipelines
+- AWS Amplify
+- Docker
+- Vercel
+- Git / GitHub / GitLab
+- CI/CD (GitHub Actions)
+- GitHub Copilot
+- Cursor
+- Claude Code
+- Codex
+- Jira
+- Figma
+- Slack
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
