@@ -4,7 +4,7 @@
 
 Hi, I'm Lautaro 👋
 
-Senior Full Stack JavaScript Developer with 4+ years of experience designing, architecting and delivering scalable production web applications using React, Next.js, TypeScript and Node.js.
+JavaScript Developer with 4+ years of experience designing, architecting and delivering scalable production web applications using React, Next.js, TypeScript and Node.js.
 
 Experienced building end-to-end software solutions across frontend, backend and cloud environments — REST APIs, authentication, databases, AWS and BaaS platforms like Supabase and Amplify.
 
